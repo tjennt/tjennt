@@ -1,8 +1,5 @@
 ### Hi, I'm Web developer. 👋
 
-<!--
-**tjennt/tjennt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
-
 Technology & programming languages:
 - LAMP stack, LEMP stack.
 - 🔭 PHP: Laravel, Lumen, CodeIgniter, Symfony, Phalcon.
