@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi, I'm Web developer. 👋
 
 <!--
-**tjennt/tjennt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**tjennt/tjennt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 
-Here are some ideas to get you started:
+Technology & programming languages:
+- LAMP stack, LEMP stack.
+- 🔭 PHP: Laravel, Lumen, CodeIgniter, Symfony, Phalcon.
+- 🌱 PHP CMS: wordpress, october, nukeviet, magento 1/2.
+- 👯 JS: jquery, vuejs, reactjs, angularjs.
+- 💬 JS MOBILE APP: reactnative, vuenative, nativescript.
+- 😄 Python: Django.
+- ⚡ Database: Mysql, PostgreSql, Redis, Firebse, Mongodb.
+- 👋 Operating system: linux, windowns.
+- ✨ AWS, Heroku, Docker.
+- 📫 Restful API, Socket.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
