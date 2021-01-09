@@ -8,7 +8,7 @@ Technology & programming languages:
 - 💬 JS MOBILE APP: reactnative, vuenative, nativescript.
 - 😄 Python: Django.
 - ⚡ Database: Mysql, PostgreSql, Redis, Firebse, Mongodb.
-- 👋 Operating system: linux, windowns.
+- 👋 Operating system: linux, windows.
 - ✨ AWS, Heroku, Docker.
 - 📫 Restful API, Socket.
 
