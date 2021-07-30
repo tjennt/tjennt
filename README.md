@@ -7,7 +7,7 @@ Technology & programming languages:
 - 👯 JS: jquery, vuejs, reactjs, angularjs.
 - 💬 JS MOBILE APP: reactnative, vuenative, nativescript.
 - 👋 Nodejs: express, sails.
-- 😄 Python: Django.
+- 😄 Python: Django, Wagtail CMS, Pygame.
 - ⚡ Database: Mysql, PostgreSql, Firebse, Mongodb.
 -   Redis, RabbitMQ
 - 👋 Operating system: linux, windows.
