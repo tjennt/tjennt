@@ -9,7 +9,7 @@ Technology & programming languages:
 - 👋 Nodejs: express, sails.
 - 😄 Python: Django, Wagtail CMS, Pygame.
 - ⚡ Database: Mysql, PostgreSql, Firebse, Mongodb.
--   Redis, RabbitMQ
+- 🔭 Redis, RabbitMQ
 - 👋 Operating system: linux, windows.
 - ✨ AWS, Heroku, Docker.
 - 📫 Restful API, Socket.
