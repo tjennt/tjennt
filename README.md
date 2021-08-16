@@ -3,7 +3,7 @@
 Technology & programming languages:
 - L(A/E)MP stack, MERN stack.
 - 🔭 PHP: Laravel, Lumen, CodeIgniter.
-- 🌱 PHP CMS: wordpress, october, nukeviet, magento 2.
+- 🌱 PHP CMS: wordpress, october, nukeviet.
 - 👯 JS/TS: jquery, angularjs, vue, react, next, nuxt.
 - 💬 JS MOBILE APP: react-native, vue-native, nativescript.
 - 👋 Nodejs: express, sails.
