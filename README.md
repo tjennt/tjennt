@@ -2,12 +2,12 @@
 
 Technology & programming languages:
 - L(A/E)MP stack, MERN stack.
-- 🔭 PHP: Laravel, Lumen, CodeIgniter.
+- 🔭 PHP: Laravel, Lumen.
 - 🌱 PHP CMS: wordpress, october, nukeviet.
 - 👯 JS/TS: jquery, angularjs, vue, react, next, nuxt.
 - 💬 JS MOBILE APP: react-native, vue-native, nativescript.
 - 👋 Nodejs: express, sails.
-- 😄 Python: django, wagtail CMS, pygame.
+- 😄 Python: django, wagtail CMS.
 - ⚡ Database: mysql, postgreSql, firebse, mongodb.
 - 👋 Operating system: linux, windows.
 - 🔭 Redis, RabbitMQ.
