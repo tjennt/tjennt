@@ -6,7 +6,7 @@ Technology & programming languages:
 - 🌱 PHP CMS: wordpress, october, nukeviet.
 - 👯 JS/TS: jquery, angularjs, vue, react, next, nuxt.
 - 💬 JS MOBILE APP: react-native, vue-native, nativescript.
-- 👋 Nodejs: express, sails.
+- 👋 Nodejs: express, nestjs, sails.
 - 😄 Python: django, wagtail CMS.
 - ⚡ Database: mysql, postgreSql, firebse, mongodb.
 - 👋 Operating system: linux, windows.
