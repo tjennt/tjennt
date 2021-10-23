@@ -13,3 +13,7 @@ Technology & programming languages:
 - 🔭 Redis, RabbitMQ, GraphQL.
 - ✨ AWS, Heroku, Docker.
 - 📫 Restful API, WebSocket.
+
+====
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftjennt&count_bg=%2373BDD5&title_bg=%23497E63&icon=xmpp.svg&icon_color=%23E7E7E7&title=VISITORS&edge_flat=true)](https://hits.seeyoufarm.com)
