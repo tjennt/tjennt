@@ -1,18 +1,19 @@
 ### Hi, I'm Web developer.
 
 Technology & programming languages:
-- L(A/E)MP stack, MERN stack.
+- ⚡ Fullstack developer.
 - 🔭 PHP: Laravel, Lumen.
-- 🌱 PHP CMS: Wordpress, October, Nukeviet.
+- 🌱 PHP CMS: Wordpress, October, Nukeviet. Magento 2.
 - 👯 JS/TS: Jquery, AngularJS, Angular 12, VueJS, ReactJS, NextJS, NuxtJS.
-- 💬 JS MOBILE APP: React Native, Vue Native, NativeScript.
+- 💬 JS MOBILE APP: React Native, Vue Native, NativeScript, Expo React Native.
 - 👋 Nodejs: Express, NestJS, SailsJS, Vendure.
-- 😄 Python: Django, Wagtail CMS.
-- ⚡ Database: MySQL, PostgreSQL, FireBase, MongoDB.
+- 🌱 Python: Django, Wagtail CMS.
+- ⚡ Database: MySQL, PostgreSQL, MS SQL, FireBase, MongoDB.
 - 👋 Operating system: Linux, Windows.
-- 🔭 Redis, RabbitMQ, GraphQL.
-- ✨ AWS, Heroku, Docker.
-- 📫 Restful API, WebSocket.
+- 🔭 Redis, RabbitMQ.
+- 👯 Docker, K8S.
+- ✨ AWS, GCP, Heroku, Vercel.
+- 📫 Restful API, GraphQL, WebSocket.
 
 ====
 
