@@ -9,7 +9,7 @@ Technology & programming languages:
 - 👋 Nodejs: Express, NestJS, SailsJS, Vendure.
 - 🌱 Python: Django, Wagtail CMS.
 - ✨ C#: .NET Core 3.1.
-- ⚡ Database: MySQL, PostgreSQL, MS SQL, FireBase, MongoDB.
+- ⚡ Database: MySQL, PostgreSQL, SQL Server, FireBase, MongoDB.
 - 👋 Operating system: Linux, Windows.
 - 🔭 Redis, RabbitMQ.
 - 👯 Docker, K8S, Jenkins.
