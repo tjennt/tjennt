@@ -5,9 +5,10 @@ Technology & programming languages:
 - 🔭 PHP: Laravel, Lumen.
 - 🌱 PHP CMS: Wordpress, October, Nukeviet. Magento 2.
 - 👯 JS/TS: Jquery, AngularJS, Angular 12, VueJS, ReactJS, NextJS, NuxtJS.
+- CANVAS: Raw JS, PixiJS
 - 💬 JS MOBILE APP: React Native, Vue Native, NativeScript, Expo React Native.
 - 👋 Nodejs: Express, NestJS, SailsJS, Vendure.
-- 🌱 Python: Django, Wagtail CMS.
+- 🌱 Python: Django, Wagtail CMS, Inventree.
 - ✨ C#: .NET Core 3.1.
 - ⚡ Database: MySQL, PostgreSQL, SQL Server, FireBase, MongoDB.
 - 👋 Operating system: Linux, Windows.
